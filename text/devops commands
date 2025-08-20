@@ -1,0 +1,4 @@
+docker ps                  # Show running containers
+docker images              # Show local images
+docker logs <container_id> # View logs
+docker exec -it <id> bash  # Access container shell
